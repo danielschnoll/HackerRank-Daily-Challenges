@@ -22,8 +22,7 @@ def hackerrankInString(st):
     
 
 if __name__ == '__main__':
-    currDir = os.path.dirname(__file__)  
-    with open(os.path.join(currDir, 'tests/input/input03.txt')) as file:
+    with open('tests/input/input03.txt') as file:
         numInputs = int(file.readline())
         for i in range(numInputs):
             s = file.readline()
