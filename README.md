@@ -1,4 +1,4 @@
-# HackerRank Daily Challenges
+# 🧑‍💻 HackerRank Daily Challenges 📆
 
 - HackerRank problem documentation provided 📃
 - Problems are solved in Python 🐍
