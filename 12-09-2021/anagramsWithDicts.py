@@ -30,14 +30,14 @@ from collections import Counter
 #
 
 def anagram(s):
-    if len(s)%2 != 0: return -1
+    if not len(s)%2 == 0: return -1
     diff = Counter(s[:len(s)//2]) - Counter(s[len(s)//2:])
     return sum(diff.values())
     
     
 if __name__ == '__main__':
-    with open('tests/input/input03.txt') as file:
+    with open('tests/input/input14.txt') as file:
         numInputs = int(file.readline())
         for i in range(numInputs):
-            s = file.readline()
+            s = file.readline().strip()
             print(anagram(s))
