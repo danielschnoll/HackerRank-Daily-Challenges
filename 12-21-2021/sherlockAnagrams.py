@@ -57,7 +57,7 @@ def sherlockAndAnagrams(s):
     
     
 if __name__ == '__main__':
-    with open('tests/input/input15.txt') as file:
+    with open('tests/input/input06.txt') as file:
         q = input()
         for i in range(q):
             s = input()
