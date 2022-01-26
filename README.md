@@ -13,3 +13,4 @@
 - [12/14/2021: Making Anagrams](https://github.com/danielschnoll/HackerRank-Daily-Challenges/tree/master/12-14-2021)
 - [12/21/2021: Sherlock's Anagrams](https://github.com/danielschnoll/HackerRank-Daily-Challenges/tree/master/12-21-2021)
 - [12/23/2021: Common Child (aka Longest Common Subsequence)](https://github.com/danielschnoll/HackerRank-Daily-Challenges/tree/master/12-23-2021)
+- [12/30/2021: Bear and Steady Gene](https://github.com/danielschnoll/HackerRank-Daily-Challenges/tree/master/12-30-2021)
