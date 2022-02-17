@@ -15,4 +15,5 @@
 - [12/23/2021: Common Child (Longest Common Subsequence)](https://github.com/danielschnoll/HackerRank-Daily-Challenges/tree/master/12-23-2021)
 - [12/30/2021: Bear and Steady Gene (Two Pointers Algorithm)](https://github.com/danielschnoll/HackerRank-Daily-Challenges/tree/master/12-30-2021)
 - [01/05/2022: Sherlock and the Valid String](https://github.com/danielschnoll/HackerRank-Daily-Challenges/tree/master/01-05-2022)
+- [01/07/2022: Min-Cost String Construction](https://github.com/danielschnoll/HackerRank-Daily-Challenges/tree/master/01-07-2022)
 - [01/13/2022: Highest Value Palindrome](https://github.com/danielschnoll/HackerRank-Daily-Challenges/tree/master/01-13-2022)
