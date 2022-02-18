@@ -19,3 +19,4 @@
 - [01/13/2022: Highest Value Palindrome](https://github.com/danielschnoll/HackerRank-Daily-Challenges/tree/master/01-13-2022)
 - [01/27/2022: Morgan and a String (Greedy Lexical Strings)](https://github.com/danielschnoll/HackerRank-Daily-Challenges/tree/master/01-27-2022)
 - [01/31/2022: Sort](https://github.com/danielschnoll/HackerRank-Daily-Challenges/tree/master/01-31-2022)
+- [02/02/2022: Missing Numbers (Set difference)](https://github.com/danielschnoll/HackerRank-Daily-Challenges/tree/master/02-02-2022)
