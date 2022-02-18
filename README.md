@@ -17,3 +17,4 @@
 - [01/05/2022: Sherlock and the Valid String](https://github.com/danielschnoll/HackerRank-Daily-Challenges/tree/master/01-05-2022)
 - [01/07/2022: Min-Cost String Construction](https://github.com/danielschnoll/HackerRank-Daily-Challenges/tree/master/01-07-2022)
 - [01/13/2022: Highest Value Palindrome](https://github.com/danielschnoll/HackerRank-Daily-Challenges/tree/master/01-13-2022)
+- [01/27/2022: Morgan and a String (Greedy Lexical Strings)](https://github.com/danielschnoll/HackerRank-Daily-Challenges/tree/master/01-27-2022)
