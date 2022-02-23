@@ -21,3 +21,4 @@
 - [01/31/2022: Sort](https://github.com/danielschnoll/HackerRank-Daily-Challenges/tree/master/01-31-2022)
 - [02/02/2022: Missing Numbers (Set difference)](https://github.com/danielschnoll/HackerRank-Daily-Challenges/tree/master/02-02-2022)
 - [02/08/2022: Pairs (Greedy technique)](https://github.com/danielschnoll/HackerRank-Daily-Challenges/tree/master/02-08-2022)
+- [02/19/2022: Sherlock's Balanced Sum (Two Pointers Technique)](https://github.com/danielschnoll/HackerRank-Daily-Challenges/tree/master/02-19-2022)
