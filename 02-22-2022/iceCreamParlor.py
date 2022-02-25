@@ -27,6 +27,9 @@ def icecreamParlor(m, arr):
     for i in range(len(arr)):
         if ctr[m-arr[i]]:
             x = arr[i]
+            # this check is necessary because we might have an ex like m = 548 and arr[i] = 274, and
+            # 274 is only in arr once. 548-274=274, and since no (274, 274) pair exists in arr, this
+            # will throw an error on arr.index after we arr.remove(274)
             if m-arr[i] == arr[i] and ctr[arr[i]] < 2:
                 continue
             arr.remove(arr[i])
