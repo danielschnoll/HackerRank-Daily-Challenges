@@ -23,3 +23,4 @@
 - [02/08/2022: Pairs (Greedy technique)](https://github.com/danielschnoll/HackerRank-Daily-Challenges/tree/master/02-08-2022)
 - [02/19/2022: Sherlock's Balanced Sum (Two Pointers Technique)](https://github.com/danielschnoll/HackerRank-Daily-Challenges/tree/master/02-19-2022)
 - [02/22/2022: Ice Cream Parlor (Greedy/Two Pointers Technique)](https://github.com/danielschnoll/HackerRank-Daily-Challenges/tree/master/02-22-2022)
+- [02/24/2022: Cavity Map (String Manipulation)](https://github.com/danielschnoll/HackerRank-Daily-Challenges/tree/master/02-22-2022)
