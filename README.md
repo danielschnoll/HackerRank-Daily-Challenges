@@ -25,3 +25,4 @@
 - [02/22/2022: Ice Cream Parlor (Greedy/Two Pointers Technique)](https://github.com/danielschnoll/HackerRank-Daily-Challenges/tree/master/02-22-2022)
 - [02/24/2022: Cavity Map (String Manipulation)](https://github.com/danielschnoll/HackerRank-Daily-Challenges/tree/master/02-24-2022)
 - [02/26/2022: Manasa Stone (Sets)](https://github.com/danielschnoll/HackerRank-Daily-Challenges/tree/master/02-26-2022)
+- [02/28/2022: ACM Teams (XOR)](https://github.com/danielschnoll/HackerRank-Daily-Challenges/tree/master/02-28-2022)
