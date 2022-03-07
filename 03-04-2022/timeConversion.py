@@ -70,4 +70,4 @@ if __name__ == '__main__':
         h = int(file.readline())
         m = int(file.readline())
 
-        timeInWords(h,m)
+        print(timeInWords(h,m))
