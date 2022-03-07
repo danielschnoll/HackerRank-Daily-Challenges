@@ -28,3 +28,4 @@
 - [02/28/2022: ACM Teams (XOR)](https://github.com/danielschnoll/HackerRank-Daily-Challenges/tree/master/02-28-2022)
 - [03/03/2022: Min Cost Birthday Gifts (Min Cost Greedy)](https://github.com/danielschnoll/HackerRank-Daily-Challenges/tree/master/03-03-2022)
 - [03/04/2022: Time in Words (Dictionaries)](https://github.com/danielschnoll/HackerRank-Daily-Challenges/tree/master/03-04-2022)
+- [03/05/2022: Kaprekar Numbers)](https://github.com/danielschnoll/HackerRank-Daily-Challenges/tree/master/03-05-2022)
